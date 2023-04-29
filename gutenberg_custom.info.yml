@@ -1,0 +1,7 @@
+name: Gutenberg Custom
+type: module
+description: Examples of Gutenberg customizations for the related blog series on colorfield.dev.
+package: Gutenberg
+core_version_requirement: ^9 || ^10
+dependencies:
+  - gutenberg:gutenberg
