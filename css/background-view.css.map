@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "background-view.css",
+	"sources": [
+		"sass/background-view.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,0BAA0B;AAC1B,yBAAyB,CAAC;EACxB,OAAO,EAAE,KAAK;CACf;;AAED,AAAA,0BAA0B,CAAC;EACzB,gBAAgB,EAAE,OAAO;CAC1B"
+}

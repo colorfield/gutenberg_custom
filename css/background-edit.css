@@ -1,0 +1,13 @@
+/**
+ * Don't edit this file. Find all style at ./sass folder.
+ **/
+.gutenberg__editor .attribute__has-background,
+.gutenberg__editor .attribute__no-background {
+  padding: 0.5em;
+}
+
+.gutenberg__editor .attribute__has-background {
+  background-color: #f0f0f0;
+}
+
+/*# sourceMappingURL=background-edit.css.map */

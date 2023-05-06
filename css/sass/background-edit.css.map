@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "background-edit.css",
+	"sources": [
+		"attributes/background-edit.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,kBAAkB,CAAC,0BAA0B,CAAC;EAC5C,gBAAgB,EAAE,OAAO;CAC1B;;AAED,AAAA,kBAAkB,CAAC,0BAA0B,CAAC;EAC5C,gBAAgB,EAAE,IAAI;CACvB"
+}
